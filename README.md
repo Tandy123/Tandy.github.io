@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
 
 [![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
@@ -386,3 +387,7 @@ About my old blog theme, I won't maintain any more. And I put the code at  [Gaoh
 ## License
 
 [MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
+=======
+# Tandy.github.io
+testblog
+>>>>>>> parent of 9e4d7b3... Set theme jekyll-theme-time-machine
